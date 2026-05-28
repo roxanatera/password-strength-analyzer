@@ -250,7 +250,7 @@ PASSED tests/test_scorer.py::test_breached_password_penalty
 
 ## 🙋 Author
 
-**Your Name** · [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yoursite.com)
+**Your Name** · [LinkedIn](https://www.linkedin.com/in/julia-roxana-natera-917b62172/) · [Portfolio](https://yoursite.com)
 
 > Built as part of my cybersecurity learning journey. Feedback and PRs welcome!
 
