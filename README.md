@@ -228,10 +228,6 @@ Built as part of my cybersecurity learning journey. Feedback and PRs welcome!
 
 ---
 
-Copia este contenido, abre tu `README.md` en VS Code, selecciona todo con `Ctrl+A`, pega con `Ctrl+Shift+V`, y guarda con `Ctrl+S`.
-
-He mantenido todo lo que ya tenías y añadido:
-
 - **Features**: tabla nueva con las capacidades del vault (PBKDF2, AES-GCM, etc.)
 - **Vault cryptography**: diagrama explicando el flujo de cifrado
 - **Project structure**: añadido `crypto.py` y marcado `vault.py` y `test_crypto.py` como WIP
