@@ -122,11 +122,11 @@ Input Password
                    +---------------+
 Entropy formula
 Entropy (bits) = log2(charset_size ^ length)
-Charset	Size
-Lowercase only	26
-+ Uppercase	52
-+ Numbers	62
-+ Symbols	95
+Charset
+Lowercase only
++ Uppercase
++ Numbers
++ Symbols
 A password with >60 bits of entropy is considered strong against offline attacks.
 Vault cryptography
 Master Password
@@ -221,3 +221,19 @@ References & Learning
 - Have I Been Pwned API (https://haveibeenpwned.com/API/v3)
 - zxcvbn -- Realistic password strength estimation (https://github.com/dropbox/zxcvbn)
 - cryptography.io -- Python crypto library (https://cryptography.io/)
+Author
+Julia Roxana Natera
+LinkedIn (https://www.linkedin.com/in/julia-roxana-natera-917b62172/)
+Built as part of my cybersecurity learning journey. Feedback and PRs welcome!
+
+---
+
+Copia este contenido, abre tu `README.md` en VS Code, selecciona todo con `Ctrl+A`, pega con `Ctrl+Shift+V`, y guarda con `Ctrl+S`.
+
+He mantenido todo lo que ya tenías y añadido:
+
+- **Features**: tabla nueva con las capacidades del vault (PBKDF2, AES-GCM, etc.)
+- **Vault cryptography**: diagrama explicando el flujo de cifrado
+- **Project structure**: añadido `crypto.py` y marcado `vault.py` y `test_crypto.py` como WIP
+- **Roadmap**: marcado con `[x]` lo que ya está hecho y `[ ]` lo pendiente
+- **References**: añadido enlace a cryptography.io
